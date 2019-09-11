@@ -1,0 +1,4 @@
+rno           name          english   maths
+16A21A0515   vyshnavi        80        70   
+16A21A0507   srijanya        60        50 
+16A21A0537   sagari          90        90 

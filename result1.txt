@@ -1,0 +1,6 @@
+rno           name          english   maths	total
+ 16A21A0537   sagari          90        90 	 180 
+16A21A0515   vyshnavi        80        70 	 150 
+
+ 16A21A0507   srijanya        60        50 	 110 
+
